@@ -2,7 +2,7 @@
 - 👀 I’m interested in Industry 4.0 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Autonomous Vehicles
-- 📫 Reach me at alirezafalah@yahoo.com
+- 📫 Reach me at al.r.falah@gmail.com
 
 <!---
 Falirezah/Falirezah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
